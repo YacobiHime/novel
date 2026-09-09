@@ -7,6 +7,7 @@ data/sys/environment.json
 # 一時ファイル・キャッシュ
 data/tmp/
 tyrano/tmp/
+textbook
 
 # --- ティラノスタジオ関連 ---
 # ティラノスタジオ本体をプロジェクト内に置いた場合(本来は入れない想定)
